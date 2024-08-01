@@ -17,6 +17,7 @@
 ### 5. 다시 라인트레이싱을하고 노란색선에서 정지
 
 
-## 결과
+
+## 결과영상
 
 [![Video Label](http://img.youtube.com/vi/g3T9tilr4FE/0.jpg)](https://youtu.be/g3T9tilr4FE)
