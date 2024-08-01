@@ -15,3 +15,8 @@
 ### 3. 신호등의 빨간색 불이 켜지면 다시 선을 따라서 주행
 ### 4. 횡단보도를 인식하고 5초간 정지
 ### 5. 다시 라인트레이싱을하고 노란색선에서 정지
+
+
+## 결과
+
+[![Video Label](http://img.youtube.com/vi/g3T9tilr4FE/0.jpg)](https://youtu.be/g3T9tilr4FE)
